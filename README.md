@@ -65,7 +65,7 @@ Se você tiver alguma dúvida ou precisar de mais informações, entre em contat
 - Nome: Gustavo Emiliano de Jesus dos Santos
 - Email: <a href="mailto:gustavoemiliano2014@gmail.com">gustavoemiliano2014@gmail.com</a>
 
-Obrigado por visitar o repositório da Calculadora de Média!
+Obrigado por visitar o repositório da Calculadora de Médias!
 
 ---
 <div align="center">
